@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "zad1": {
+      "commandName": "Project",
+      //"commandLineArgs": "https://zapytaj.onet.pl/Category/001,003/2,6674446,podajcie_przykladowy_adres_email_na_onet__daje_nj_.html"
+      //"commandLineArgs": "https://pl-pl.facebook.com/",
+      "commandLineArgs": "https://pjwstk.edu.pl/"
+    }
+  }
+}
